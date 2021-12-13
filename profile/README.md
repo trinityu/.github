@@ -3,7 +3,7 @@
 ## GITHUB.COM/TRINITYU
 
 If you're a student **do not view my code.**
-It might be academic dishonesty.
+It may be be academic dishonesty.
 
 If you're attending Trinity University and trying to copy my work, **don't**.
 
