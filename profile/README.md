@@ -11,6 +11,6 @@ This org is used by me to keep projects organized between different devices safe
 
 if you're a professor and have any issues with this org please don't hesitate to contact me.
 
--hugh
+-hjc
 
 hcolema1@trinity.edu
